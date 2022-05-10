@@ -1,3 +1,4 @@
 Hello world 
 today is tuesday
-
+echo "$abc"
+printf"loop"
